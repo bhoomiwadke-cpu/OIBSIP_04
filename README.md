@@ -1,5 +1,5 @@
 # OIBSIP_04
-password_generator<BR>
+PASSWORD_GENERATOR<BR>
 AUTHOR BHOOMI SANJAY WADKE
 # Advanced Password Generator
 
